@@ -20,4 +20,4 @@ if __name__ == "__main__":
     added_percentage = round(added/total*100, 2)
     not_added_percentage = round(not_added/total*100, 2)
 
-    print(f"Total: {total}\nAdded: {added} ({added_percentage}%)\nNot Added: {not_added} ({not_added_percentage}%)")
+    print(f"**Total:** {total}\n\n**Added:** {added} ({added_percentage}%)\n\n**Not Added:** {not_added} ({not_added_percentage}%)")
