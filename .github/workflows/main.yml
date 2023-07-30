@@ -56,7 +56,7 @@ jobs:
     - name: Update README
       run: |
         sed '13,$d' README.md > README.md.1
-        csv2md wifi-map-hk.csv >> README.md.1
+        python3 get_hotspot_count.py >> README.md.1 
         mv README.md.1 README.md
     - name: Commit and push
       run: |-
