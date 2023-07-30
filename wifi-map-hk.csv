@@ -125,7 +125,7 @@
 1809,PCCW,Circle K,Convenience Stores,"Shop 23-23A, G/F., Blossom Garden, Tuen Mun, N.T.",22.4080430162,113.968868851,Wi-Fi.HK via CSL,1,,,False
 1810,PCCW,Circle K,Convenience Stores,"Shop 12 & 13, G/F., Tsui Ning Garden, Tuen Mun, N.T.",22.3844889993,113.974260091,Wi-Fi.HK via CSL,1,,,False
 1811,PCCW,Circle K,Convenience Stores,"Shop 1, Tsz Ching Shopping Centre I, Tsz Ching Est., Kln.",22.3509291695,114.200461506,Wi-Fi.HK via CSL,1,,,False
-1812,PCCW,Circle K,Convenience Stores,"Shop 1 G/F., Carpark Building, Ying Fuk Court, Kowloon",22.3465084917,114.19563353,Wi-Fi.HK via CSL,1,,,False
+1812,PCCW,Circle K,Convenience Stores,"Shop 1 G/F., Carpark Building, Ying Fuk Court, Kowloon",22.3465084917,114.19563353,Wi-Fi.HK via CSL,1,,,True
 1819,PCCW,Circle K,Convenience Stores,"G/F., Hong Kong Spinners Industrial Building (Phase I & II), No.800 Cheung Sha Wan Road, Kowloon",22.3380835121,114.149086475,Wi-Fi.HK via CSL,1,,,False
 1820,PCCW,Circle K,Convenience Stores,"G/F., No. 128 Fuk Wing Street, Kowloon",22.3328957935,114.161706268,Wi-Fi.HK via CSL,1,,,False
 1823,PCCW,Circle K,Convenience Stores,"Shop 1 Carpark Building, Sau Mau Ping Estate Phase 15, Kwun Tong",22.3219168431,114.230496883,Wi-Fi.HK via CSL,1,,,False
@@ -1595,14 +1595,14 @@ HB7F,swd,Social Welfare Department,Government Buildings & Offices,"7/F, Harbour 
 HBCH13M,hkgwfs,Big Wave Bay Beach,Entertainment & Leisure,"Big Wave Bay Road, Shek O",22.246491,114.24642,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Big wave Bay Beach.pdf,False
 HBCH14M,hkgwfs,St. Stephen's Beach,Entertainment & Leisure,"Wong Ma Kok Path, Stanley",22.21235,114.21512,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HBCH14M-StStephensBeach.pdf,False
 HBCH15M,hkgwfs,Turtle Cove Beach,Entertainment & Leisure,"Tai Tam Road, Stanley",22.232851,114.22305,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Turtle Cove Beach.pdf,False
-HBCH16M,hkgwfs,Chung Hom Kok Beach,Entertainment & Leisure,"Chung Hom Kok Road, Chung Hom Kok",22.2177,114.202292,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Chung Hom Kok Beach.pdf,False
-HBCH17M,hkgwfs,Middle Bay Beach,Entertainment & Leisure,"South Bay Road, Repulse Bay",22.22951,114.19824,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Middle Bay Beach.pdf,False
-HBCH18M,hkgwfs,South Bay Beach,Entertainment & Leisure,"South Bay Road, Repulse bay",22.224755,114.19785,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/South Bay Beach.pdf,False
-HBEA001,hkgwfs,Repulse Bay Beach,Entertainment & Leisure,"Beach Road, Repulse Bay, Hong Kong",22.236722,114.196453,Wi-Fi.HK,11,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-1-RepulseBayBeach.pdf,False
+HBCH16M,hkgwfs,Chung Hom Kok Beach,Entertainment & Leisure,"Chung Hom Kok Road, Chung Hom Kok",22.2177,114.202292,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Chung Hom Kok Beach.pdf,True
+HBCH17M,hkgwfs,Middle Bay Beach,Entertainment & Leisure,"South Bay Road, Repulse Bay",22.22951,114.19824,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/Middle Bay Beach.pdf,True
+HBCH18M,hkgwfs,South Bay Beach,Entertainment & Leisure,"South Bay Road, Repulse bay",22.224755,114.19785,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/South Bay Beach.pdf,True
+HBEA001,hkgwfs,Repulse Bay Beach,Entertainment & Leisure,"Beach Road, Repulse Bay, Hong Kong",22.236722,114.196453,Wi-Fi.HK,11,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-1-RepulseBayBeach.pdf,True
 HBEA002,hkgwfs,Deep Water Bay Beach,Entertainment & Leisure,"Island Road, Deep Water Bay, Hong Kong",22.244444,114.187778,Wi-Fi.HK,5,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-2-DeepWaterBayBeach.pdf,False
 HBEA003,hkgwfs,Shek O Beach,Entertainment & Leisure,"Shek O Road, Shek O, Hong Kong",22.228611,114.250833,Wi-Fi.HK,4,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-3-ShekOBeach.pdf,False
-HBEA004,hkgwfs,Repulse Bay Beach (High Speed Zone),Entertainment & Leisure,"Beach Road, Repulse Bay, Hong Kong",22.235472,114.198276,Wi-Fi.HK (High Speed),2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-1-RepulseBayBeach.pdf,False
-HBEA005,hkgwfs,Stanley Main Beach,Entertainment & Leisure,"Stanley Beach Road, Stanley, Hong Kong",22.221111,114.214167,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-5-StanleyMainBeach.pdf,False
+HBEA004,hkgwfs,Repulse Bay Beach (High Speed Zone),Entertainment & Leisure,"Beach Road, Repulse Bay, Hong Kong",22.235472,114.198276,Wi-Fi.HK (High Speed),2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-1-RepulseBayBeach.pdf,True
+HBEA005,hkgwfs,Stanley Main Beach,Entertainment & Leisure,"Stanley Beach Road, Stanley, Hong Kong",22.221111,114.214167,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/LCSD-Beach-5-StanleyMainBeach.pdf,True
 HCCH,HCA,Hong Chi Children Home,Welfare Service Units,"Pinehill Village, Chung Nga Road, Nam Hang, Tai Po, NT",22.462855,114.172769,Wi-Fi.HK via HCA,10,,,False
 HCDSC-KTW,HCA,Hong Chi District Support Centre (Kwun Tong West),Welfare Service Units,"Shop 116-123, Lee Foo House, Shun Lee Estate, Kwun Tong, Kowloon",22.330323,114.227052,Wi-Fi.HK via HCA,2,,,False
 HCDSC-ND,HCA,Hong Chi District Support Centre-N.T (North District),Welfare Service Units,"2/F, Ancillary Facilities Block, Cheung Lung Wai Estate, Sheung Shui, NT",22.494609,114.124346,Wi-Fi.HK via HCA,2,,,False
@@ -1632,7 +1632,7 @@ HCOM070,hkgwfs,Wah Kwai Community Centre,"Sports, Cultural & Recreational Venues
 HCOM094,hkgwfs,Leighton Hill Community Hall,"Sports, Cultural & Recreational Venues","G/F, 133 Wong Nai Chung Road, Happy Valley, Hong Kong",22.27547,114.183067,Wi-Fi.HK,8,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-94-LeightonHillCommunityHall-GF.pdf,False
 HCOM112,hkgwfs,Western District Community Centre,"Sports, Cultural & Recreational Venues","36A Western Street, Sai Ying Pun, Hong Kong",22.285945,114.140833,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-112-WesternDistrictCommunityCentre.pdf,False
 HCOM123,hkgwfs,Causeway Bay Community Centre,"Sports, Cultural & Recreational Venues","7 Fook Yum Road, Causeway Bay, Hong Kong",22.288333,114.191111,Wi-Fi.HK,5,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-123-CausewayBayCommunityCentre.pdf,False
-HCOM148,hkgwfs,Stanley Community Hall,"Sports, Cultural & Recreational Venues","LG/F, Stanley Municipal Services Building, 6 Stanley Market Road, Hong Kong",22.219167,114.212222,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-148-StanleyCommunityHall-LGF.pdf,False
+HCOM148,hkgwfs,Stanley Community Hall,"Sports, Cultural & Recreational Venues","LG/F, Stanley Municipal Services Building, 6 Stanley Market Road, Hong Kong",22.219167,114.212222,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-148-StanleyCommunityHall-LGF.pdf,True
 HCOM153,hkgwfs,Hing Wah Community Hall,"Sports, Cultural & Recreational Venues","Hing Wah (II) Estate, Chai Wan, Hong Kong",22.263889,114.234444,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-153-HingWahCommunityHall.pdf,False
 HCOM154,hkgwfs,Yue Wan Community Hall,"Sports, Cultural & Recreational Venues","Yue Wan Estate, 365 Chai Wan Road, Chai Wan, Hong Kong",22.266111,114.241389,Wi-Fi.HK,2,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-154-YueWanCommunityHall-1F.pdf,False
 HCOM155,hkgwfs,Aldrich Bay Community Hall,"Sports, Cultural & Recreational Venues","G/F, Oi Po House, Oi Tung Estate, Shau Kei Wan, Hong Kong",22.281944,114.225278,Wi-Fi.HK,3,Hotspot Location in Venue,https://theme.gov.hk/en/theme/wifi/images/coverage/HAD-COM-155-AldrichBayCommunityHall-GF.pdf,False
@@ -1902,7 +1902,7 @@ Helping Hand Day Care Unit",Welfare Service Units,"Nin Wah Road, Cheung Muk Tau 
 HHA-003,hkgwfs,Tung Wah Group of Hospitals Fung Yiu King Hospital,Hospitals & Clinics,"9 Sandy Bay Road, Pokfulam, HK",22.271499,114.124895,Wi-Fi.HK,14,"Hotspot Location in Venue
 ",https://theme.gov.hk/en/theme/wifi/images/coverage/Tung%20Wah%20Group%20of%20Hospitals%20Fung%20Yiu%20King%20Hospital_hotspot_diagram.pdf,False
 HHA-004,hkgwfs,"Cheshire Home, Chung Hom Kok",Hospitals & Clinics,"128 Chung Hom Kok Road, HK",22.211654,114.197417,Wi-Fi.HK,15,"Hotspot Location in Venue
-",https://theme.gov.hk/en/theme/wifi/images/coverage/Cheshire%20Home%20-%20Chung%20Hom%20Kok_hotspot_diagram.pdf,False
+",https://theme.gov.hk/en/theme/wifi/images/coverage/Cheshire%20Home%20-%20Chung%20Hom%20Kok_hotspot_diagram.pdf,True
 HHA-005,hkgwfs,Wong Chuk Hang Hospital,Hospitals & Clinics,"2 Wong Chuk Hang Path, Wong Chuk Hang, HK",22.251209,114.17592,Wi-Fi.HK,15,"Hotspot Location in Venue
 ",https://theme.gov.hk/en/theme/wifi/images/coverage/Wong%20Chuk%20Hang%20Hospital_hotspot_diagram.pdf,False
 HHA-010,hkgwfs,Tung Wah Hospital,Hospitals & Clinics,"12 Po Yan Street, Sheung Wan, HK",22.28521,114.146898,Wi-Fi.HK,29,"Hotspot Location in Venue
@@ -4353,7 +4353,8 @@ W152-1-019,cfsc,The Kai Nang Integrated Rehabilitation Service,Welfare Service U
 W152-1-020,cfsc,Tsui Ngai Co-production Centre - SY House,Welfare Service Units,"1F & 2/F, Camellia House, So Uk Estate, Sham Shui Po, Kowloon",22.341169,114.158378,Wi-Fi.HK via CFSC,4,,,False
 W152-1-021,cfsc,The Kai Nang Integrated Rehabilitation Service,Welfare Service Units,"6/F, 4 Fuk Tong Road, Kwun Tong, Kowloon",22.3119317,114.2286709,Wi-Fi.HK via CFSC,4,,,False
 W152-1-022,cfsc,Tsui Ngai Co-production Centre,Welfare Service Units,"1F & 2/F, Camellia House, So Uk Estate, Sham Shui Po, Kowloon",22.341169,114.158378,Wi-Fi.HK via CFSC,3,,,False
-W152-1-023,cfsc,"Lei Yue Mun Neighbourhood Level Community Development Project",Welfare Service Units,"No.99 On Lei Sai Chuen, Lei Yue Mun, Kwun Tong, Kowloon",22.291212,114.239273,Wi-Fi.HK via CFSC,2,,,False
+W152-1-023,cfsc,"Lei Yue Mun Neighbourhood Level Community Development Project
+",Welfare Service Units,"No.99 On Lei Sai Chuen, Lei Yue Mun, Kwun Tong, Kowloon",22.291212,114.239273,Wi-Fi.HK via CFSC,2,,,False
 W152-1-024,cfsc,The Kai Nang Integrated Rehabilitation Service,Welfare Service Units,"7/F, 4 Fuk Tong Road, Kwun Tong, Kowloon",22.3119317,114.2286709,Wi-Fi.HK via CFSC,4,,,False
 W152-1-025,cfsc,Tsui Fung Co-production Centre,Welfare Service Units,"1/F, Hoi Tat Estate Ancillary Facilities Block, 38 Sham Mong Road, Sham Shui Po, Kowloon",22.330935,114.148935,Wi-Fi.HK via CFSC,1,,,False
 W152-1-026,cfsc,Hoi Nga House,Welfare Service Units,"2/F, Hoi Tat Estate Ancillary Facilities Block, 38 Sham Mong Road, Sham Shui Po, Kowloon",22.330935,114.148935,Wi-Fi.HK via CFSC,4,,,False
@@ -4457,7 +4458,8 @@ W512-1-039,naac,NAAC Together Home Care Service for Persons with Severe Disabili
 W512-1-040,naac,Excelsior Employment Centre cum Hostel,Welfare Service Units,"Room 201, Retail and welfare building, Mun Tung Estate, Tung Chung, New Territories",22.27732448,113.93367318,Wi-Fi.HK via NAAC,4,,,False
 W512-1-041,naac,Excelsior Employment Centre cum Hostel,Welfare Service Units,"Room 202, 2/F Joysmark, Mun Tung Estate, Tung Chung, NT",22.27732448,113.93367318,Wi-Fi.HK via NAAC,4,,,False
 W512-1-042,naac,Tung Chung Youth Outreaching Team,Welfare Service Units,"Wing B, G/F, Yung Tat House, Yat Tung (1) Estate, Tung Chung, Lantau",22.28021243,113.93679181,Wi-Fi.HK via NAAC,4,,,False
-W512-1-043,naac,"Neighbourhood Advice-Action Council Tuen Mun / Yuen Long Rural Village Centre",Welfare Service Units,"Shop No. 1, G/F, Aster Court, No. 8 Hung Tai Road, Hung Shui Kiu, New Territories",22.43455083,113.99633996,Wi-Fi.HK via NAAC,4,,,False
+W512-1-043,naac,"Neighbourhood Advice-Action Council Tuen Mun / Yuen Long Rural Village Centre
+",Welfare Service Units,"Shop No. 1, G/F, Aster Court, No. 8 Hung Tai Road, Hung Shui Kiu, New Territories",22.43455083,113.99633996,Wi-Fi.HK via NAAC,4,,,False
 W512-3-045,naac,B Square Outreaching Team for Ethnic Minorities,Welfare Service Units,"26/F, Lancashire Centre, 361 Shau Kei Wan Road, Hong Kong",22.27741776,114.22762582,Wi-Fi.HK via NAAC,4,,,False
 W556-1-001,PLK,Lau Chan Siu Po District Elderly Community Centre,Welfare Service Units,"1/F, Lam Tin Community Complex, Tak Tin Estate, Lam Tin, Kwun Tong, Kowloon",22.3082558,114.239607,WiFi.HK via Po Leung Kuk,4,,,False
 W556-1-002a,PLK,Lau Chan Siu Po Neighbourhood Elderly Centre (Fai Wah House),Welfare Service Units,"Rm. 109-120, G/F, Fai Wah House, Lok Wah South Estate, Kwun Tong, Kowloon",22.3202175,114.2191276,WiFi.HK via Po Leung Kuk,3,,,False
@@ -4518,7 +4520,8 @@ W556-1-084,PLK,Po Leung Kuk Employment Services Centre (Kwun Tong),Welfare Servi
 W556-1-085,PLK,Po Leung Kuk Employment Services Centre (San Po Kong),Welfare Service Units,"Room 1303, Well Tech Centre, 7-9 Pat Tat Street, San Po Kong, Kowloon",22.336619,114.198825,WiFi.HK via Po Leung Kuk,2,,,False
 W556-7-103,PLK,Hoi Tat Child Development Centre,Welfare Service Units,"G/F, Hoi Tat Estate Ancillary Facilities Block,. 38 Sham Mong Road, Sham Shui Po, Kowloon.",22.330985,114.148867,WiFi.HK via Po Leung Kuk,2,,,False
 W560-1-005,poh,Pok Oi Hospital Tuen Mun Nursing Home,Welfare Service Units,"2/F & G/F, 2 Siu Lun Street, Tuen Mun, New Territories",22.385057,113.975662,Wi-Fi.HK via Pok Oi Hospital,4,,,False
-W560-1-011,poh,"POH Jockey Club Hostel for Single Persons",Welfare Service Units,"1/F, Sui Keung House, Siu Sai Wan Estate, Chai Wan, Hong Kong",22.262642,114.247695,Wi-Fi.HK via Pok Oi Hospital,7,,,False
+W560-1-011,poh,"POH Jockey Club Hostel for Single Persons
+",Welfare Service Units,"1/F, Sui Keung House, Siu Sai Wan Estate, Chai Wan, Hong Kong",22.262642,114.247695,Wi-Fi.HK via Pok Oi Hospital,7,,,False
 W560-2-001,poh,Mrs Wong Tung Yuen District Elderly Community Centre,Welfare Service Units,"Shops 6 - 11, G/F, Wai Fat Building, 5 Fung Cheung Road, Yuen Long, N.T.",22.443984,114.03295,Wi-Fi.HK via Pok Oi Hospital,2,,,False
 W560-2-002,poh,Mr Kwok Hing Kwan Neighbourhood Elderly Centre,Welfare Service Units,"Unit 22, G/F, Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shui Po, Kowloon",22.333444,114.146053,Wi-Fi.HK via Pok Oi Hospital,2,,,False
 W560-2-003,poh,Pok Oi Hospital Chan Ping Memorial Neighbourhood Elderly Centre,Welfare Service Units,"3/F, Ancillary Facilities Block, Tin Wah Estate, Tin Shui Wai, Yuen Long, N.T.",22.461182,113.996395,Wi-Fi.HK via Pok Oi Hospital,2,,,False
