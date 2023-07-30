@@ -1,5 +1,5 @@
 # Scripts
-The following are scripts that help populate the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/wifi-map-hk.csv).
+The following are scripts that help populate the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/blob/main/wifi-map-hk.csv).
 
 ## HK Gov WiFi
 The Office of the Government Chief Information Officer provides a [Wi-Fi.HK data set](https://data.gov.hk/en-data/dataset/hk-ogcio-ogcio_hp-wi-fi-hk-locations) of all the fixed and non-fixed free Wi-Fi hotspots in Hong Kong. 

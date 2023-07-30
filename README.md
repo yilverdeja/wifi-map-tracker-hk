@@ -5,10 +5,10 @@ Adding known Wi-Fi hotspots in Hong Kong into the [Wi-Fi Map App](https://www.wi
 ![Vending Machine Google My Maps](wifi-map-hk.png)
 
 ## Contribution
-To contribute, add any of the remaining Wi-Fi Hotspots into the Wi-Fi map app. Once complete, make a pull request with changes to the "WiFi Map" header within the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/wifi-map-hk.csv).
+To contribute, add any of the remaining Wi-Fi Hotspots into the Wi-Fi map app. Once complete, make a pull request with changes to the "WiFi Map" header within the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/blob/main/wifi-map-hk.csv).
 
 ## Remaining Wi-Fi Hotspots
-See the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/wifi-map-hk.csv) for a full list of all known hotspots in Hong Kong. The list below only shows the remaining Wi-Fi hotspots that haven't been added to the WiFi Map App.
+See the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/blob/main/wifi-map-hk.csv) for a full list of all known hotspots in Hong Kong. The list below only shows the remaining Wi-Fi hotspots that haven't been added to the WiFi Map App.
 <!-- The line under this comment should be blank. If this README is updated, and the line number is not the same as before, then the github action  to write into the README must also be fixed to match it. -->
 **Total:** 5430
 
