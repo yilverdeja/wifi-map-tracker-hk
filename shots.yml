@@ -1,0 +1,4 @@
+- url: https://www.google.com/maps/d/edit?mid=1JradRQ7CZG6hzKbUb-7-b2jMTAjiK1M&usp=sharing
+  output: wifi-map-hk.png
+  height: 800
+  wait: 1000
