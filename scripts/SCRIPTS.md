@@ -18,3 +18,9 @@ The `hk-gov-wifi.py` script retrieves information from the [fixed-wifi-locations
 * MoreInformationLinkEN
 
 In addition, it adds an additional `InWifiMap` data field initially set to False.
+
+## Reduce Hotspots
+The Wi-Fi Map app doesn't allow adding a hotspot if a hotspot with the same name exists 300m from the current hotspot. Therefore, running `reduce-hotspots.py` recreates the CSV file with a reduced number of hotspots based on the criteria above.
+
+## Split CSV
+Each MyMaps layer cannot have more than 2000 items. Considering the number of hotspots surpasses more than 2000 items, it will generate multiple CSV files to be uploaded into the MyMaps.
