@@ -10,8 +10,8 @@ To contribute, add any of the remaining Wi-Fi Hotspots into the Wi-Fi map app. O
 ## Remaining Wi-Fi Hotspots
 See the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/blob/main/wifi-map-hk.csv) for a full list of all known hotspots in Hong Kong. The list below only shows the remaining Wi-Fi hotspots that haven't been added to the WiFi Map App.
 <!-- The line under this comment should be blank. If this README is updated, and the line number is not the same as before, then the github action  to write into the README must also be fixed to match it. -->
-**Total:** 5430
+**Total:** 2983
 
-**Added:** 9 (0.17%)
+**Added:** 7 (0.23%)
 
-**Not Added:** 5421 (99.83%)
+**Not Added:** 2976 (99.77%)
