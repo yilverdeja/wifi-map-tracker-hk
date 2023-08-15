@@ -24,9 +24,18 @@ def create_csv(data):
             info.update({"InWifiMap": False})
             writer.writerow(info)
 
+def reduce_csv(data):
+    # reduces the csv file
+
+    # get csv
+
+    # can group by SSIDs
+
+    # oh this will be tough
+    pass
+
 def main():
     data = get_info()
-
     create_csv(data)
 
 if __name__ == "__main__":
