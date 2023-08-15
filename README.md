@@ -12,6 +12,6 @@ See the [wifi-map-hk.csv](https://github.com/yilverdeja/wifi-map-tracker-hk/blob
 <!-- The line under this comment should be blank. If this README is updated, and the line number is not the same as before, then the github action  to write into the README must also be fixed to match it. -->
 **Total:** 2983
 
-**Added:** 7 (0.23%)
+**Added:** 41 (1.37%)
 
-**Not Added:** 2976 (99.77%)
+**Not Added:** 2942 (98.63%)
